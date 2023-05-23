@@ -1,0 +1,167 @@
+page_id,field_name,instruction,ground_truth,prediction,llm_name,time_taken
+031ba9e4-f17f-4a27-a57d-0bd6d51b761a_document-1_page-1,Borrower Name,Extract value of Borrower Name,Summer Kemp Arredondo,,databricks/dolly-v2-7b,1.1023061275482178
+031ba9e4-f17f-4a27-a57d-0bd6d51b761a_document-1_page-1,Current Address,Extract value of Current Address,8021 Haney Ln Stockton CA 95212 United States,,databricks/dolly-v2-7b,2.152273416519165
+031ba9e4-f17f-4a27-a57d-0bd6d51b761a_document-1_page-1,Date of Birth,Extract value of Date of Birth,02/07/1987,,databricks/dolly-v2-7b,0.5537581443786621
+031ba9e4-f17f-4a27-a57d-0bd6d51b761a_document-1_page-1,Home Number,Extract value of Home Number,209-648-4291,,databricks/dolly-v2-7b,3.3815739154815674
+031ba9e4-f17f-4a27-a57d-0bd6d51b761a_document-1_page-1,Loan id,Extract value of Loan id,8001723615,,databricks/dolly-v2-7b,0.5056991577148438
+031ba9e4-f17f-4a27-a57d-0bd6d51b761a_document-1_page-1,Type of Credit,Extract value of Type of Credit,am applying for joint credit.,,databricks/dolly-v2-7b,3.6735620498657227
+0a60ddab-1399-40d7-b01e-2228eb1a95bc_document-1_page-1,Agency Case Number,Extract value of Agency Case Number,512-4781486-703,,databricks/dolly-v2-7b,0.6110537052154541
+0a60ddab-1399-40d7-b01e-2228eb1a95bc_document-1_page-1,Borrower Name,Extract value of Borrower Name,AISHA ISMAIL,,databricks/dolly-v2-7b,0.8809139728546143
+0a60ddab-1399-40d7-b01e-2228eb1a95bc_document-1_page-1,Current Address,Extract value of Current Address,8337 LA ROCHE LANE HOUSTON TX 77036-7397,,databricks/dolly-v2-7b,5.3174943923950195
+0a60ddab-1399-40d7-b01e-2228eb1a95bc_document-1_page-1,Date of Birth,Extract value of Date of Birth,02/01/1968,,databricks/dolly-v2-7b,12.615363597869873
+0a60ddab-1399-40d7-b01e-2228eb1a95bc_document-1_page-1,Home Number,Extract value of Home Number,(832)-866-2724,,databricks/dolly-v2-7b,4.508939504623413
+0a60ddab-1399-40d7-b01e-2228eb1a95bc_document-1_page-1,Loan id,Extract value of Loan id,121362012600,,databricks/dolly-v2-7b,1.0756645202636719
+0a60ddab-1399-40d7-b01e-2228eb1a95bc_document-1_page-1,Mailing address,Extract value of Mailing address,Does not apply,,databricks/dolly-v2-7b,12.695565938949585
+0a60ddab-1399-40d7-b01e-2228eb1a95bc_document-1_page-1,Marital Status,Extract value of Marital Status,Unmarried,,databricks/dolly-v2-7b,1.9086546897888184
+0a60ddab-1399-40d7-b01e-2228eb1a95bc_document-1_page-1,Type of Credit,Extract value of Type of Credit,I am applying for joint credit.,,databricks/dolly-v2-7b,8.845205068588257
+0a60ddab-1399-40d7-b01e-2228eb1a95bc_document-1_page-4,Will you occupy the property as your primary address,Extract value of Will you occupy the property as your primary address,XYES,,databricks/dolly-v2-7b,12.848099708557129
+0a60ddab-1399-40d7-b01e-2228eb1a95bc_document-1_page-7,Sex,Extract value of Sex,Female,,databricks/dolly-v2-7b,1.2586848735809326
+10d4a5fb-779b-4ed3-919f-ffbb70a48510_document-1_page-1,Agency Case Number,Extract value of Agency Case Number,77-77-6-5511729,,databricks/dolly-v2-7b,0.7860751152038574
+10d4a5fb-779b-4ed3-919f-ffbb70a48510_document-1_page-1,Borrower Name,Extract value of Borrower Name,Angela M Melton,,databricks/dolly-v2-7b,9.21320366859436
+10d4a5fb-779b-4ed3-919f-ffbb70a48510_document-1_page-1,Current Address,Extract value of Current Address,20780 Stony Brook Cir Riverside CA 92508 US,,databricks/dolly-v2-7b,5.908578157424927
+10d4a5fb-779b-4ed3-919f-ffbb70a48510_document-1_page-1,Date of Birth,Extract value of Date of Birth,05/06/1961,,databricks/dolly-v2-7b,2.00528883934021
+10d4a5fb-779b-4ed3-919f-ffbb70a48510_document-1_page-1,Home Number,Extract value of Home Number,951-333-0681,,databricks/dolly-v2-7b,12.967386960983276
+10d4a5fb-779b-4ed3-919f-ffbb70a48510_document-1_page-1,Loan id,Extract value of Loan id,549300BRJZYHYKT4BJ84800171022551,,databricks/dolly-v2-7b,12.985549688339233
+10d4a5fb-779b-4ed3-919f-ffbb70a48510_document-1_page-1,Marital Status,Extract value of Marital Status,Married,,databricks/dolly-v2-7b,12.947510242462158
+21855abf-a2ed-490b-b962-9a071afd71b1_document-1_page-1,Borrower Name,Extract value of Borrower Name,Denis Graciov,,databricks/dolly-v2-7b,13.2723388671875
+21855abf-a2ed-490b-b962-9a071afd71b1_document-1_page-1,Current Address,Extract value of Current Address,1106 Chalet Dr 301 Darien IL 60561 US,,databricks/dolly-v2-7b,13.259626150131226
+21855abf-a2ed-490b-b962-9a071afd71b1_document-1_page-1,Date of Birth,Extract value of Date of Birth,02/09/1979,,databricks/dolly-v2-7b,13.2470383644104
+21855abf-a2ed-490b-b962-9a071afd71b1_document-1_page-1,Home Number,Extract value of Home Number,630-442-3794,,databricks/dolly-v2-7b,1.698829174041748
+21855abf-a2ed-490b-b962-9a071afd71b1_document-1_page-1,Loan id,Extract value of Loan id,830215/,,databricks/dolly-v2-7b,0.5423662662506104
+21855abf-a2ed-490b-b962-9a071afd71b1_document-1_page-1,Marital Status,Extract value of Marital Status,Married,,databricks/dolly-v2-7b,0.4445335865020752
+21855abf-a2ed-490b-b962-9a071afd71b1_document-1_page-1,Type of Credit,Extract value of Type of Credit,am applying for joint credit.,,databricks/dolly-v2-7b,13.241755247116089
+24c359e6-84b9-4b84-a75b-14c23307787b_document-1_page-1,Borrower Name,Extract value of Borrower Name,Clifford David Laboor,,databricks/dolly-v2-7b,0.5783870220184326
+24c359e6-84b9-4b84-a75b-14c23307787b_document-1_page-1,Current Address,Extract value of Current Address,1220 Rio Grande Dr Benbrook TX 76126 US,,databricks/dolly-v2-7b,12.938038110733032
+24c359e6-84b9-4b84-a75b-14c23307787b_document-1_page-1,Date of Birth,Extract value of Date of Birth,02/10/1954,,databricks/dolly-v2-7b,12.984439134597778
+24c359e6-84b9-4b84-a75b-14c23307787b_document-1_page-1,Home Number,Extract value of Home Number,817-874-5237,,databricks/dolly-v2-7b,4.366564035415649
+24c359e6-84b9-4b84-a75b-14c23307787b_document-1_page-1,Loan id,Extract value of Loan id,22003862,,databricks/dolly-v2-7b,0.4856908321380615
+24c359e6-84b9-4b84-a75b-14c23307787b_document-1_page-1,Marital Status,Extract value of Marital Status,Married,,databricks/dolly-v2-7b,13.062052249908447
+24c359e6-84b9-4b84-a75b-14c23307787b_document-1_page-1,Type of Credit,Extract value of Type of Credit,Ol am applying for joint credit.,,databricks/dolly-v2-7b,1.5111806392669678
+24c359e6-84b9-4b84-a75b-14c23307787b_document-1_page-2,Will you occupy the property as your primary address,Extract value of Will you occupy the property as your primary address,ONO,,databricks/dolly-v2-7b,9.912403583526611
+29064736-52d2-49ac-b29f-4aabb83703f5_document-1_page-1,Borrower Name,Extract value of Borrower Name,DIANA L Silverberg,,databricks/dolly-v2-7b,12.88784146308899
+29064736-52d2-49ac-b29f-4aabb83703f5_document-1_page-1,Current Address,Extract value of Current Address,502 Windsor Glen Dr Katy TX 77450 United States,,databricks/dolly-v2-7b,12.912801742553711
+29064736-52d2-49ac-b29f-4aabb83703f5_document-1_page-1,Date of Birth,Extract value of Date of Birth,09/28/1961,,databricks/dolly-v2-7b,0.5379116535186768
+29064736-52d2-49ac-b29f-4aabb83703f5_document-1_page-1,Home Number,Extract value of Home Number,281-731-1791,,databricks/dolly-v2-7b,12.924043416976929
+29064736-52d2-49ac-b29f-4aabb83703f5_document-1_page-1,Loan id,Extract value of Loan id,254900ZZPN19KA3GL698202203220014,,databricks/dolly-v2-7b,1.0288293361663818
+29064736-52d2-49ac-b29f-4aabb83703f5_document-1_page-1,Mailing address,Extract value of Mailing address,Does not apply,,databricks/dolly-v2-7b,12.948564291000366
+29064736-52d2-49ac-b29f-4aabb83703f5_document-1_page-3,Will you occupy the property as your primary address,Extract value of Will you occupy the property as your primary address,OYES,,databricks/dolly-v2-7b,3.882305145263672
+29064736-52d2-49ac-b29f-4aabb83703f5_document-1_page-4,Sex,Extract value of Sex,I do not wish to provide this information,,databricks/dolly-v2-7b,5.3211143016815186
+3c82d6c8-494d-479c-88d4-4cad89e0dcca_document-1_page-1,Agency Case Number,Extract value of Agency Case Number,49-49-6-1613685,,databricks/dolly-v2-7b,0.8083419799804688
+3c82d6c8-494d-479c-88d4-4cad89e0dcca_document-1_page-1,Borrower Name,Extract value of Borrower Name,Amanda Williams,,databricks/dolly-v2-7b,13.096996307373047
+3c82d6c8-494d-479c-88d4-4cad89e0dcca_document-1_page-1,Current Address,Extract value of Current Address,6664 Kearsarge Dr Colorado Springs CO 80925 United States,,databricks/dolly-v2-7b,6.05039119720459
+3c82d6c8-494d-479c-88d4-4cad89e0dcca_document-1_page-1,Date of Birth,Extract value of Date of Birth,06/09/1996,,databricks/dolly-v2-7b,13.217420101165771
+3c82d6c8-494d-479c-88d4-4cad89e0dcca_document-1_page-1,Home Number,Extract value of Home Number,303-524-0532,,databricks/dolly-v2-7b,7.311889886856079
+3c82d6c8-494d-479c-88d4-4cad89e0dcca_document-1_page-1,Loan id,Extract value of Loan id,2022012077515,,databricks/dolly-v2-7b,13.004350662231445
+3c82d6c8-494d-479c-88d4-4cad89e0dcca_document-1_page-1,Type of Credit,Extract value of Type of Credit,Ol am applying for joint credit.,,databricks/dolly-v2-7b,12.978151082992554
+3c82d6c8-494d-479c-88d4-4cad89e0dcca_document-1_page-3,Will you occupy the property as your primary address,Extract value of Will you occupy the property as your primary address,OYES,,databricks/dolly-v2-7b,12.965312242507935
+3c82d6c8-494d-479c-88d4-4cad89e0dcca_document-1_page-4,Sex,Extract value of Sex,|I do not wish to provide this information,,databricks/dolly-v2-7b,12.792358160018921
+628125f7-8144-4d88-838c-e27331e1ae16_document-1_page-1,Borrower Name,Extract value of Borrower Name,Serghei Costisin Jr,,databricks/dolly-v2-7b,11.874740600585938
+628125f7-8144-4d88-838c-e27331e1ae16_document-1_page-1,Current Address,Extract value of Current Address,2104 Westover Rd North Aurora IL 60542 US,,databricks/dolly-v2-7b,12.985010385513306
+628125f7-8144-4d88-838c-e27331e1ae16_document-1_page-1,Date of Birth,Extract value of Date of Birth,09/23/1983,,databricks/dolly-v2-7b,13.030309200286865
+628125f7-8144-4d88-838c-e27331e1ae16_document-1_page-1,Home Number,Extract value of Home Number,916-886-0800,,databricks/dolly-v2-7b,0.8133366107940674
+628125f7-8144-4d88-838c-e27331e1ae16_document-1_page-1,Loan id,Extract value of Loan id,835999/,,databricks/dolly-v2-7b,0.487443208694458
+628125f7-8144-4d88-838c-e27331e1ae16_document-1_page-1,Mailing address,Extract value of Mailing address,Doesnot apply,,databricks/dolly-v2-7b,13.04922103881836
+628125f7-8144-4d88-838c-e27331e1ae16_document-1_page-1,Marital Status,Extract value of Marital Status,Unmarried,,databricks/dolly-v2-7b,1.4256458282470703
+628125f7-8144-4d88-838c-e27331e1ae16_document-1_page-1,Type of Credit,Extract value of Type of Credit,I am applying for joint credit.,,databricks/dolly-v2-7b,13.059558868408203
+628125f7-8144-4d88-838c-e27331e1ae16_document-1_page-3,Will you occupy the property as your primary address,Extract value of Will you occupy the property as your primary address,OYES,,databricks/dolly-v2-7b,13.023569583892822
+6eb720b1-3d2c-4c2f-998d-096b5e8b02a1_document-1_page-1,Borrower Name,Extract value of Borrower Name,ALIS GROVE,,databricks/dolly-v2-7b,12.716333866119385
+6eb720b1-3d2c-4c2f-998d-096b5e8b02a1_document-1_page-1,Co-Borrower Name,Extract value of Co-Borrower Name,MIKEL KEITH ERVIN,,databricks/dolly-v2-7b,0.8077137470245361
+6eb720b1-3d2c-4c2f-998d-096b5e8b02a1_document-1_page-1,Current Address,Extract value of Current Address,401 CENETERY RD AURORA TX 76078,,databricks/dolly-v2-7b,6.041829347610474
+6eb720b1-3d2c-4c2f-998d-096b5e8b02a1_document-1_page-1,Date of Birth,Extract value of Date of Birth,09/29/1992,,databricks/dolly-v2-7b,0.5245523452758789
+6eb720b1-3d2c-4c2f-998d-096b5e8b02a1_document-1_page-1,Home Number,Extract value of Home Number,(940)-255-7466,,databricks/dolly-v2-7b,5.627392768859863
+6eb720b1-3d2c-4c2f-998d-096b5e8b02a1_document-1_page-1,Loan id,Extract value of Loan id,122021014500,,databricks/dolly-v2-7b,12.758737087249756
+6eb720b1-3d2c-4c2f-998d-096b5e8b02a1_document-1_page-1,Marital Status,Extract value of Marital Status,Married,,databricks/dolly-v2-7b,3.899932384490967
+6eb720b1-3d2c-4c2f-998d-096b5e8b02a1_document-1_page-1,Type of Credit,Extract value of Type of Credit,I am applying for joint credit.,,databricks/dolly-v2-7b,0.5246517658233643
+6eb720b1-3d2c-4c2f-998d-096b5e8b02a1_document-1_page-4,Will you occupy the property as your primary address,Extract value of Will you occupy the property as your primary address,XYES,,databricks/dolly-v2-7b,0.5191845893859863
+6eb720b1-3d2c-4c2f-998d-096b5e8b02a1_document-1_page-6,Sex,Extract value of Sex,I do not wish to provide this information,,databricks/dolly-v2-7b,1.5652649402618408
+745ea4b9-0456-4218-bd51-71c1bf905a11_document-1_page-1,Borrower Name,Extract value of Borrower Name,Madison Nicole Thorne,,databricks/dolly-v2-7b,12.91445541381836
+745ea4b9-0456-4218-bd51-71c1bf905a11_document-1_page-1,Co-Borrower Name,Extract value of Co-Borrower Name,Stephen Dale Thorne,,databricks/dolly-v2-7b,0.575481653213501
+745ea4b9-0456-4218-bd51-71c1bf905a11_document-1_page-1,Current Address,Extract value of Current Address,2821 NW 31st Pl Newcastle OK 73065 United States,,databricks/dolly-v2-7b,12.893622875213623
+745ea4b9-0456-4218-bd51-71c1bf905a11_document-1_page-1,Date of Birth,Extract value of Date of Birth,10/15/1994,,databricks/dolly-v2-7b,12.902280569076538
+745ea4b9-0456-4218-bd51-71c1bf905a11_document-1_page-1,Home Number,Extract value of Home Number,405-248-0738,,databricks/dolly-v2-7b,2.4352710247039795
+745ea4b9-0456-4218-bd51-71c1bf905a11_document-1_page-1,Loan id,Extract value of Loan id,202203088611,,databricks/dolly-v2-7b,0.5859508514404297
+745ea4b9-0456-4218-bd51-71c1bf905a11_document-1_page-1,Mailing address,Extract value of Mailing address,PO Box 841641 Pearland TX 77584 United States,,databricks/dolly-v2-7b,12.867852449417114
+745ea4b9-0456-4218-bd51-71c1bf905a11_document-1_page-1,Type of Credit,Extract value of Type of Credit,Ol am applying for joint credit.,,databricks/dolly-v2-7b,12.9009690284729
+8a37ef47-96bc-4926-a085-9478937e4c03_document-1_page-1,Agency Case Number,Extract value of Agency Case Number,77-7-6-5516912,,databricks/dolly-v2-7b,0.7277679443359375
+8a37ef47-96bc-4926-a085-9478937e4c03_document-1_page-1,Borrower Name,Extract value of Borrower Name,Kenneth Lord-Imaizumi,,databricks/dolly-v2-7b,0.6675248146057129
+8a37ef47-96bc-4926-a085-9478937e4c03_document-1_page-1,Current Address,Extract value of Current Address,3000 Burnet Dr. Escondido CA 92027 United States,,databricks/dolly-v2-7b,12.834507703781128
+8a37ef47-96bc-4926-a085-9478937e4c03_document-1_page-1,Date of Birth,Extract value of Date of Birth,08/18/1968,,databricks/dolly-v2-7b,0.490065336227417
+8a37ef47-96bc-4926-a085-9478937e4c03_document-1_page-1,Home Number,Extract value of Home Number,760-500-5910,,databricks/dolly-v2-7b,12.87369441986084
+8a37ef47-96bc-4926-a085-9478937e4c03_document-1_page-1,Loan id,Extract value of Loan id,505849053,,databricks/dolly-v2-7b,0.4897589683532715
+8a37ef47-96bc-4926-a085-9478937e4c03_document-1_page-1,Mailing address,Extract value of Mailing address,Does not apply,,databricks/dolly-v2-7b,0.8732852935791016
+8a37ef47-96bc-4926-a085-9478937e4c03_document-1_page-1,Type of Credit,Extract value of Type of Credit,Ol am applying for joint credit.,,databricks/dolly-v2-7b,12.860293865203857
+8a37ef47-96bc-4926-a085-9478937e4c03_document-1_page-3,Will you occupy the property as your primary address,Extract value of Will you occupy the property as your primary address,OYES,,databricks/dolly-v2-7b,13.094422101974487
+8a81d941-eb46-4f32-8e43-edf25e037957_document-1_page-1,Agency Case Number,Extract value of Agency Case Number,No.494961611533,,databricks/dolly-v2-7b,0.5218162536621094
+8a81d941-eb46-4f32-8e43-edf25e037957_document-1_page-1,Borrower Name,Extract value of Borrower Name,CYNTHIA R WILLIAMSON-OTTO,,databricks/dolly-v2-7b,0.4657442569732666
+8a81d941-eb46-4f32-8e43-edf25e037957_document-1_page-1,Co-Borrower Name,Extract value of Co-Borrower Name,LONNY G OTTO,,databricks/dolly-v2-7b,0.8979830741882324
+8a81d941-eb46-4f32-8e43-edf25e037957_document-1_page-1,Current Address,Extract value of Current Address,3306 LONG FELLOW DR BELTON TX 76513,,databricks/dolly-v2-7b,4.880582571029663
+8a81d941-eb46-4f32-8e43-edf25e037957_document-1_page-1,Date of Birth,Extract value of Date of Birth,11/23/1962,,databricks/dolly-v2-7b,1.8767354488372803
+8a81d941-eb46-4f32-8e43-edf25e037957_document-1_page-1,Home Number,Extract value of Home Number,(434)-316-2168,,databricks/dolly-v2-7b,12.786055088043213
+8a81d941-eb46-4f32-8e43-edf25e037957_document-1_page-1,Loan id,Extract value of Loan id,121363013700,,databricks/dolly-v2-7b,1.1479065418243408
+8a81d941-eb46-4f32-8e43-edf25e037957_document-1_page-1,Mailing address,Extract value of Mailing address,Does not apply,,databricks/dolly-v2-7b,5.6791627407073975
+8a81d941-eb46-4f32-8e43-edf25e037957_document-1_page-1,Marital Status,Extract value of Marital Status,Married,,databricks/dolly-v2-7b,4.035945177078247
+8a81d941-eb46-4f32-8e43-edf25e037957_document-1_page-1,Type of Credit,Extract value of Type of Credit,I am applying for joint credit.,,databricks/dolly-v2-7b,0.6355886459350586
+8a81d941-eb46-4f32-8e43-edf25e037957_document-1_page-4,Will you occupy the property as your primary address,Extract value of Will you occupy the property as your primary address,YES,,databricks/dolly-v2-7b,12.84720516204834
+8a81d941-eb46-4f32-8e43-edf25e037957_document-1_page-6,Sex,Extract value of Sex,|Female,,databricks/dolly-v2-7b,12.92539381980896
+94d6315c-a073-484e-ae5f-7004fd55cc15_document-1_page-1,Borrower Name,Extract value of Borrower Name,LAURA YESINIA HIMAN,,databricks/dolly-v2-7b,1.0075550079345703
+94d6315c-a073-484e-ae5f-7004fd55cc15_document-1_page-1,Co-Borrower Name,Extract value of Co-Borrower Name,NICSON EVANGELISTA HIMAN,,databricks/dolly-v2-7b,1.752859115600586
+94d6315c-a073-484e-ae5f-7004fd55cc15_document-1_page-1,Current Address,Extract value of Current Address,36125 CREIGHTON AVE APT 3202 3202 MURRIETA CA 92563,,databricks/dolly-v2-7b,7.910097360610962
+94d6315c-a073-484e-ae5f-7004fd55cc15_document-1_page-1,Date of Birth,Extract value of Date of Birth,02/17/1971,,databricks/dolly-v2-7b,12.787404775619507
+94d6315c-a073-484e-ae5f-7004fd55cc15_document-1_page-1,Loan id,Extract value of Loan id,121357014400,,databricks/dolly-v2-7b,0.8967106342315674
+94d6315c-a073-484e-ae5f-7004fd55cc15_document-1_page-1,Mailing address,Extract value of Mailing address,36125 CREIGHTON AVE 3202 MURRIETA CA 92563,,databricks/dolly-v2-7b,3.0112059116363525
+94d6315c-a073-484e-ae5f-7004fd55cc15_document-1_page-1,Marital Status,Extract value of Marital Status,Married,,databricks/dolly-v2-7b,0.7821416854858398
+94d6315c-a073-484e-ae5f-7004fd55cc15_document-1_page-1,Type of Credit,Extract value of Type of Credit,I am applying for joint credit.,,databricks/dolly-v2-7b,8.596006155014038
+94d6315c-a073-484e-ae5f-7004fd55cc15_document-1_page-4,Will you occupy the property as your primary address,Extract value of Will you occupy the property as your primary address,XYES,,databricks/dolly-v2-7b,0.5286481380462646
+94d6315c-a073-484e-ae5f-7004fd55cc15_document-1_page-7,Sex,Extract value of Sex,Female,,databricks/dolly-v2-7b,13.028035640716553
+9c5e3c69-0572-4d3c-9f69-97672c73ee85_document-1_page-1,Agency Case Number,Extract value of Agency Case Number,No.5113101459,,databricks/dolly-v2-7b,0.48666810989379883
+9c5e3c69-0572-4d3c-9f69-97672c73ee85_document-1_page-1,Borrower Name,Extract value of Borrower Name,ALEXIS CHRISTIAN HICKS,,databricks/dolly-v2-7b,5.238813161849976
+9c5e3c69-0572-4d3c-9f69-97672c73ee85_document-1_page-1,Co-Borrower Name,Extract value of Co-Borrower Name,JONONTA Q HICKS,,databricks/dolly-v2-7b,0.7546985149383545
+9c5e3c69-0572-4d3c-9f69-97672c73ee85_document-1_page-1,Current Address,Extract value of Current Address,433 PHEASANT HILL LN BURLESON TX 76028,,databricks/dolly-v2-7b,3.4251949787139893
+9c5e3c69-0572-4d3c-9f69-97672c73ee85_document-1_page-1,Date of Birth,Extract value of Date of Birth,03/02/1992,,databricks/dolly-v2-7b,12.866395235061646
+9c5e3c69-0572-4d3c-9f69-97672c73ee85_document-1_page-1,Home Number,Extract value of Home Number,(469)-993-3071,,databricks/dolly-v2-7b,12.89503002166748
+9c5e3c69-0572-4d3c-9f69-97672c73ee85_document-1_page-1,Loan id,Extract value of Loan id,122094020600,,databricks/dolly-v2-7b,12.915164470672607
+9c5e3c69-0572-4d3c-9f69-97672c73ee85_document-1_page-1,Marital Status,Extract value of Marital Status,Married,,databricks/dolly-v2-7b,12.874166250228882
+9c5e3c69-0572-4d3c-9f69-97672c73ee85_document-1_page-1,Type of Credit,Extract value of Type of Credit,I am applying for joint credit.,,databricks/dolly-v2-7b,12.85107135772705
+9c5e3c69-0572-4d3c-9f69-97672c73ee85_document-1_page-5,Will you occupy the property as your primary address,Extract value of Will you occupy the property as your primary address,YES,,databricks/dolly-v2-7b,12.963155746459961
+9c5e3c69-0572-4d3c-9f69-97672c73ee85_document-1_page-7,Sex,Extract value of Sex,|Female,,databricks/dolly-v2-7b,1.079366683959961
+a8f173c0-c4cf-4ae0-8342-271af9614a0b_document-1_page-1,Agency Case Number,Extract value of Agency Case Number,49-49-6-1618828,,databricks/dolly-v2-7b,4.411750793457031
+a8f173c0-c4cf-4ae0-8342-271af9614a0b_document-1_page-1,Borrower Name,Extract value of Borrower Name,Lottie Tennant,,databricks/dolly-v2-7b,0.5003001689910889
+a8f173c0-c4cf-4ae0-8342-271af9614a0b_document-1_page-1,Co-Borrower Name,Extract value of Co-Borrower Name,Henry Lee Tennant,,databricks/dolly-v2-7b,7.556741714477539
+a8f173c0-c4cf-4ae0-8342-271af9614a0b_document-1_page-1,Current Address,Extract value of Current Address,28977 Sam P Canyon Country CA 91387 US,,databricks/dolly-v2-7b,12.907970428466797
+a8f173c0-c4cf-4ae0-8342-271af9614a0b_document-1_page-1,Date of Birth,Extract value of Date of Birth,11/19/1948,,databricks/dolly-v2-7b,12.912037134170532
+a8f173c0-c4cf-4ae0-8342-271af9614a0b_document-1_page-1,Home Number,Extract value of Home Number,318-537-2854,,databricks/dolly-v2-7b,12.876616954803467
+a8f173c0-c4cf-4ae0-8342-271af9614a0b_document-1_page-1,Loan id,Extract value of Loan id,21003599,,databricks/dolly-v2-7b,12.932504892349243
+a8f173c0-c4cf-4ae0-8342-271af9614a0b_document-1_page-1,Marital Status,Extract value of Marital Status,Married,,databricks/dolly-v2-7b,1.1776857376098633
+a8f173c0-c4cf-4ae0-8342-271af9614a0b_document-1_page-1,Type of Credit,Extract value of Type of Credit,am applying for joint credit.,,databricks/dolly-v2-7b,12.980742692947388
+a8f173c0-c4cf-4ae0-8342-271af9614a0b_document-1_page-3,Will you occupy the property as your primary address,Extract value of Will you occupy the property as your primary address,OYES,,databricks/dolly-v2-7b,11.144973516464233
+b967ee32-b4c7-45c2-88b6-06cf180c0167_document-1_page-1,Borrower Name,Extract value of Borrower Name,Summer Kemp Arredondo,,databricks/dolly-v2-7b,0.48361849784851074
+b967ee32-b4c7-45c2-88b6-06cf180c0167_document-1_page-1,Current Address,Extract value of Current Address,8021 Haney Ln Stockton CA 95212 United States,,databricks/dolly-v2-7b,13.002057313919067
+b967ee32-b4c7-45c2-88b6-06cf180c0167_document-1_page-1,Date of Birth,Extract value of Date of Birth,02/07/1987,,databricks/dolly-v2-7b,4.981774568557739
+b967ee32-b4c7-45c2-88b6-06cf180c0167_document-1_page-1,Home Number,Extract value of Home Number,209-648-4291,,databricks/dolly-v2-7b,12.956493139266968
+b967ee32-b4c7-45c2-88b6-06cf180c0167_document-1_page-1,Loan id,Extract value of Loan id,8001723615,,databricks/dolly-v2-7b,0.6819088459014893
+b967ee32-b4c7-45c2-88b6-06cf180c0167_document-1_page-1,Mailing address,Extract value of Mailing address,Does not apply,,databricks/dolly-v2-7b,1.0649604797363281
+b967ee32-b4c7-45c2-88b6-06cf180c0167_document-1_page-1,Type of Credit,Extract value of Type of Credit,Ol am applying for joint credit.,,databricks/dolly-v2-7b,12.878928422927856
+bbad9898-dea0-4798-b42e-da1359f6ca48_document-1_page-1,Agency Case Number,Extract value of Agency Case Number,77-7-6-5516912,,databricks/dolly-v2-7b,0.7680654525756836
+bbad9898-dea0-4798-b42e-da1359f6ca48_document-1_page-1,Borrower Name,Extract value of Borrower Name,Kenneth Lord-Imaizumi,,databricks/dolly-v2-7b,12.853513240814209
+bbad9898-dea0-4798-b42e-da1359f6ca48_document-1_page-1,Current Address,Extract value of Current Address,3000 Burnet Dr. Escondido CA_ZIP 92027 United States,,databricks/dolly-v2-7b,10.155248641967773
+bbad9898-dea0-4798-b42e-da1359f6ca48_document-1_page-1,Date of Birth,Extract value of Date of Birth,08/18/1968,,databricks/dolly-v2-7b,0.5269219875335693
+bbad9898-dea0-4798-b42e-da1359f6ca48_document-1_page-1,Home Number,Extract value of Home Number,760-500-5910,,databricks/dolly-v2-7b,12.859853506088257
+bbad9898-dea0-4798-b42e-da1359f6ca48_document-1_page-1,Loan id,Extract value of Loan id,505849053,,databricks/dolly-v2-7b,3.660127639770508
+bbad9898-dea0-4798-b42e-da1359f6ca48_document-1_page-1,Type of Credit,Extract value of Type of Credit,Ol am applying for joint credit.,,databricks/dolly-v2-7b,12.8464035987854
+bbad9898-dea0-4798-b42e-da1359f6ca48_document-1_page-3,Will you occupy the property as your primary address,Extract value of Will you occupy the property as your primary address,OYES,,databricks/dolly-v2-7b,12.982002973556519
+c00aaf72-e955-4434-9e11-0c78bf838246_document-1_page-1,Borrower Name,Extract value of Borrower Name,NICSON ROMAR SANTANA HIMAN,,databricks/dolly-v2-7b,1.3961968421936035
+c00aaf72-e955-4434-9e11-0c78bf838246_document-1_page-1,Co-Borrower Name,Extract value of Co-Borrower Name,NICSON EVANGELISTA HIMAN,,databricks/dolly-v2-7b,12.736614227294922
+c00aaf72-e955-4434-9e11-0c78bf838246_document-1_page-1,Current Address,Extract value of Current Address,36125 CREIGHTON AVE APT 3202 MURRIETA CA 92563,,databricks/dolly-v2-7b,3.5426840782165527
+c00aaf72-e955-4434-9e11-0c78bf838246_document-1_page-1,Date of Birth,Extract value of Date of Birth,07/05/1997,,databricks/dolly-v2-7b,1.438223123550415
+c00aaf72-e955-4434-9e11-0c78bf838246_document-1_page-1,Home Number,Extract value of Home Number,(951)-746-0389,,databricks/dolly-v2-7b,1.2648088932037354
+c00aaf72-e955-4434-9e11-0c78bf838246_document-1_page-1,Loan id,Extract value of Loan id,121357014400,,databricks/dolly-v2-7b,12.726250171661377
+c00aaf72-e955-4434-9e11-0c78bf838246_document-1_page-1,Marital Status,Extract value of Marital Status,Unmarried,,databricks/dolly-v2-7b,0.5913560390472412
+c00aaf72-e955-4434-9e11-0c78bf838246_document-1_page-1,Type of Credit,Extract value of Type of Credit,I am applying for joint credit.,,databricks/dolly-v2-7b,3.1566708087921143
+c00aaf72-e955-4434-9e11-0c78bf838246_document-1_page-4,Will you occupy the property as your primary address,Extract value of Will you occupy the property as your primary address,XYES,,databricks/dolly-v2-7b,12.893451929092407
+c00aaf72-e955-4434-9e11-0c78bf838246_document-1_page-7,Sex,Extract value of Sex,Male,,databricks/dolly-v2-7b,12.950656175613403
+f67eaf7c-a7b6-479a-96b6-ca5119615067_document-1_page-1,Borrower Name,Extract value of Borrower Name,Summer Kemp Arredondo,,databricks/dolly-v2-7b,0.4891855716705322
+f67eaf7c-a7b6-479a-96b6-ca5119615067_document-1_page-1,Current Address,Extract value of Current Address,8021 Haney Ln Stockton CA 95212 United States,,databricks/dolly-v2-7b,1.2081077098846436
+f67eaf7c-a7b6-479a-96b6-ca5119615067_document-1_page-1,Date of Birth,Extract value of Date of Birth,02/07/1987,,databricks/dolly-v2-7b,0.5884206295013428
+f67eaf7c-a7b6-479a-96b6-ca5119615067_document-1_page-1,Home Number,Extract value of Home Number,209-648-4291,,databricks/dolly-v2-7b,2.187617540359497
+f67eaf7c-a7b6-479a-96b6-ca5119615067_document-1_page-1,Loan id,Extract value of Loan id,8001723615,,databricks/dolly-v2-7b,0.5350456237792969
+f67eaf7c-a7b6-479a-96b6-ca5119615067_document-1_page-1,Type of Credit,Extract value of Type of Credit,Ol am applying for joint credit.,,databricks/dolly-v2-7b,9.336906909942627

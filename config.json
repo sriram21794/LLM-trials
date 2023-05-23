@@ -1,0 +1,5 @@
+{
+    "model_id": "databricks/dolly-v2-7b", 
+    "load_in_8bit": false
+
+}
